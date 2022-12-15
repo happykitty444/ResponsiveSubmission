@@ -1,13 +1,22 @@
 {
   "files": {
-    "main.css": "/ResponsiveSubmission/static/css/main.073c9b0a.css",
-    "main.js": "/ResponsiveSubmission/static/js/main.188a8fe6.js",
+    "main.css": "/ResponsiveSubmission/static/css/main.84d8cc10.css",
+    "main.js": "/ResponsiveSubmission/static/js/main.c939ce58.js",
+    "static/media/HiFi-Desktop.png": "/ResponsiveSubmission/static/media/HiFi-Desktop.662c8451439ae73a783b.png",
+    "static/media/HiFi-IPad.png": "/ResponsiveSubmission/static/media/HiFi-IPad.ebdec7782df0a551ef00.png",
+    "static/media/LoFi-Computer.PNG": "/ResponsiveSubmission/static/media/LoFi-Computer.7b38a9b80ba1b73df58a.PNG",
+    "static/media/LoFi-IPad.PNG": "/ResponsiveSubmission/static/media/LoFi-IPad.35097fc2655df1e50245.PNG",
+    "static/media/LoFi-IPhone.PNG": "/ResponsiveSubmission/static/media/LoFi-IPhone.22fcc10ff6c7af44a8fa.PNG",
+    "static/media/VFlea-screenshot.png": "/ResponsiveSubmission/static/media/VFlea-screenshot.1a53aac699712826747a.png",
+    "static/media/StyleGuide.png": "/ResponsiveSubmission/static/media/StyleGuide.96191b5ed69a6577cd62.png",
+    "static/media/Results-screenshot.png": "/ResponsiveSubmission/static/media/Results-screenshot.b8639d960decd2f7736a.png",
+    "static/media/WebAIM-screenshot.png": "/ResponsiveSubmission/static/media/WebAIM-screenshot.144a783d0c4f92365cf1.png",
     "index.html": "/ResponsiveSubmission/index.html",
-    "main.073c9b0a.css.map": "/ResponsiveSubmission/static/css/main.073c9b0a.css.map",
-    "main.188a8fe6.js.map": "/ResponsiveSubmission/static/js/main.188a8fe6.js.map"
+    "main.84d8cc10.css.map": "/ResponsiveSubmission/static/css/main.84d8cc10.css.map",
+    "main.c939ce58.js.map": "/ResponsiveSubmission/static/js/main.c939ce58.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.188a8fe6.js"
+    "static/css/main.84d8cc10.css",
+    "static/js/main.c939ce58.js"
   ]
 }
