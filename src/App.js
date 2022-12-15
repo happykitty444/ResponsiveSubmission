@@ -1,15 +1,15 @@
 import './App.css';
 
-import WebAIM from "./images/WebAIM-sceenshot.png"
-import VFlea from "./images/VFlea-sceenshot.png"
+import WebAIM from "./images/WebAIM-screenshot.png"
+import VFlea from "./images/VFlea-screenshot.png"
 import StyleGuide from "./images/StyleGuide.png"
-import Results from "./images/Results-sceenshot.png"
-import LoFiComputer from "./images/LoFi-Computer.png"
-import LoFiIPad from "./images/LoFi-IPad.png"
-import LoFiIPhone from "./images/LoFi-IPhone.png"
+import Results from "./images/Results-screenshot.png"
+import LoFiComputer from "./images/LoFi-Computer.PNG"
+import LoFiIPad from "./images/LoFi-IPad.PNG"
+import LoFiIPhone from "./images/LoFi-IPhone.PNG"
 import HiFiDesktop from "./images/HiFi-Desktop.png"
 import HiFiIPad from "./images/HiFi-IPad.png"
-import HiFiIPhone from "./images/HiFi-IPhone.png"
+// import HiFiIPhone from "./images/HiFi-IPhone.png"
 
 function App() {
   return (
@@ -25,6 +25,7 @@ function App() {
         of content to suit the view frame.
       </p>
 
+      <section>
       <h2>An Example of Room to Improve</h2>
       <p> This is of course not intended to criticise the design of the website in question, nor to imply that my final product would be better.
         However as an excercise in accessible and responsive design, I sought out a website which I felt had room to grow in these areas. This
@@ -66,7 +67,9 @@ function App() {
         This is incredibly confusing, and means that even upon revisiting the website, it is hard to remember what a button actually did.</li>
       </ul>
       <p><b>A point in its favor:</b> It is actually very responsive, and resizes seamlessly to accomodate other screen sizes. This is a big plus for accessibility.</p>
+      </section>
 
+      <section>
       <h2>What To Do?</h2>
       <p>In an excercise to put the tenets of accessibility and reponsivity into practice, I will be redesigning the website to the best of my ability, with these
         two core prinicples in mind.
@@ -98,8 +101,10 @@ function App() {
       </p>
       <img src={HiFiDesktop} alt="Figma High Fidelity Prototypes - Desktop"/>
       <img src={HiFiIPad} alt="Balsamiq Low Fidelity Wireframes - IPad"/>
-      <img src={HiFiIPhone} alt="Balsamiq Low Fidelity Wireframes - IPhone"/>
+      {/* <img src={HiFiIPhone} alt="Balsamiq Low Fidelity Wireframes - IPhone"/> */}
+      </section>
 
+      <section>
       <h2>The Final Product</h2>
       <p>With a detailed high fidelity prototype it is simply a matter of putting in some work to build the website for real. I believe that
         this faithfully recreates the aesthetic of the original website and preserves its more unique features like moneyless trading of items
@@ -109,6 +114,7 @@ function App() {
         <a href="https://happykitty444.github.io/ResponsiveRedesign/">Visit the Final Product Here!</a>
       </p>
       <img src={Results} alt="Screenshot of Final Website"/>
+      </section>
     </div>
   );
 }
