@@ -9,7 +9,7 @@ import LoFiIPad from "./images/LoFi-IPad.PNG"
 import LoFiIPhone from "./images/LoFi-IPhone.PNG"
 import HiFiDesktop from "./images/HiFi-Desktop.png"
 import HiFiIPad from "./images/HiFi-IPad.png"
-// import HiFiIPhone from "./images/HiFi-IPhone.png"
+import HiFiIPhone from "./images/HiFi-IPhone.png"
 
 function App() {
   return (
@@ -101,7 +101,7 @@ function App() {
       </p>
       <img src={HiFiDesktop} alt="Figma High Fidelity Prototypes - Desktop"/>
       <img src={HiFiIPad} alt="Balsamiq Low Fidelity Wireframes - IPad"/>
-      {/* <img src={HiFiIPhone} alt="Balsamiq Low Fidelity Wireframes - IPhone"/> */}
+      <img src={HiFiIPhone} alt="Balsamiq Low Fidelity Wireframes - IPhone"/>
       </section>
 
       <section>
