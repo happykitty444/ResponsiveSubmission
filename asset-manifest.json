@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ResponsiveSubmission/static/css/main.84d8cc10.css",
-    "main.js": "/ResponsiveSubmission/static/js/main.632bdb45.js",
+    "main.js": "/ResponsiveSubmission/static/js/main.85110fbc.js",
     "static/media/HiFi-Desktop.png": "/ResponsiveSubmission/static/media/HiFi-Desktop.662c8451439ae73a783b.png",
     "static/media/HiFi-IPad.png": "/ResponsiveSubmission/static/media/HiFi-IPad.ebdec7782df0a551ef00.png",
     "static/media/HiFi-IPhone.png": "/ResponsiveSubmission/static/media/HiFi-IPhone.2ff508041086bd3ab9b5.png",
@@ -14,10 +14,10 @@
     "static/media/WebAIM-screenshot.png": "/ResponsiveSubmission/static/media/WebAIM-screenshot.144a783d0c4f92365cf1.png",
     "index.html": "/ResponsiveSubmission/index.html",
     "main.84d8cc10.css.map": "/ResponsiveSubmission/static/css/main.84d8cc10.css.map",
-    "main.632bdb45.js.map": "/ResponsiveSubmission/static/js/main.632bdb45.js.map"
+    "main.85110fbc.js.map": "/ResponsiveSubmission/static/js/main.85110fbc.js.map"
   },
   "entrypoints": [
     "static/css/main.84d8cc10.css",
-    "static/js/main.632bdb45.js"
+    "static/js/main.85110fbc.js"
   ]
 }
