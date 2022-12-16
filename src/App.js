@@ -50,6 +50,7 @@ function App() {
         of the alternate text for links is titled "More Details" which is ambiguous and provides screen reader users without clear understanding of
         where this link will take them, which is not only confusing but also presents a security risk. Some of the link text is just missing.</li>
       </ul>
+      <h3>Usability</h3>
       <p>In addition to WebAIM WAVE's identifications, the site has other design issues:</p>
       <ul>
         <li><b>The conceptual model is scattered and unclear.</b> Elements are placed around the page semi-randomly, without any sense
