@@ -29,7 +29,8 @@ function App() {
       <h2>An Example of Room to Improve</h2>
       <p> This is of course not intended to criticise the design of the website in question, nor to imply that my final product would be better.
         However as an excercise in accessible and responsive design, I sought out a website which I felt had room to grow in these areas. This
-        is the website <a href="http://www.vflea.com/">VFlea.com</a>, a virtual flea market website similar in concept to Ebay.
+        is the website <a href="http://www.vflea.com/">VFlea.com</a>. Vflea is a virtual flea market website similar in concept to Ebay, where
+        users can haggle for items, trade items with other users, and sell their items online.
       </p>
       <img src={VFlea} alt="screenshot of Vflea" />
       <h3>Accessibility</h3>
